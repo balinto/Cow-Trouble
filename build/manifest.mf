@@ -1,0 +1,6 @@
+MIDlet-1: Midlet,/Icon.png,cow_trouble.Midlet
+MIDlet-Vendor: DarkSide
+MIDlet-Name: Cow Trouble
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
